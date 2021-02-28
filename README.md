@@ -10,7 +10,7 @@ In this small project I use the following technologies:
   
 The main idea it's generate random numbers in the Arduino board, after that display that numbers in real time in the browser through chart chaning in real-time.
 
-I just code everything in index.js (server side) because it's a small script, but, obviously can be refactored in some specific architechture.
+I just code everything in index.js (server side) because it's a small script, but, obviously can be refactored in some specific architecture.
 
 Feel free to take whatever you want my friends :) 
 
