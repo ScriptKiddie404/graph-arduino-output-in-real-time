@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  background: rgb(37, 37, 37);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+#canvas {
+  max-width: 80%;
+  max-height: 80%;
+}
+
+#elboton {
+  border: none;
+  border-radius: 5px;
+  padding: 1em;
+  color: white;
+  background-color: rgb(109, 39, 122);
+}
+
+#elboton:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+}
