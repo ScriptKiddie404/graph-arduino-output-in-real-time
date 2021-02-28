@@ -14,9 +14,11 @@ I just code everything in index.js (server side) because it's a small script, bu
 
 Feel free to take whatever you want my friends :) 
 
-To install just fork and run:<br>
+To install just clone and run:<br>
 ```javascript
 npm install
 ```
+
+The arduino code it's just a small random number generation script (circuit no needed).
 
 If you have any ideas or tips to improve this, please give me some feedback.
